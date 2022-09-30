@@ -266,6 +266,11 @@
     "Type": "Bollywood",
     "Actor": "hrithik roshan"
   },
-
+{
+    "name": "Nine",
+    "Movie": "Nine",
+    "Type": "Horror/Sci-fic",
+    "Actor": "Prithviraj Sukumaran"
+  },
 
 ]
