@@ -271,6 +271,11 @@
     "Movie": "Nine",
     "Type": "Horror/Sci-fic",
     "Actor": "Prithviraj Sukumaran"
-  }
+  },
+  { "name": "Azim",
+    "Movie": "Pirates Of The Caribbean",
+    "Type": "Hollywood",
+    "Actor" : "Johnny Depp",
+  },
 
 ]
