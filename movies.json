@@ -70,37 +70,26 @@
     "Movie": "Hawaizaada 2",
     "Type": "Bollywood",
     "Actor": "Ayushman Khurrana"
-
-
  },
    {
     "name": "Shubham Ingole",
     "Movie": "Sholey",
     "Type": "Bollywood",
     "Actor": "Amjad khan, Amithab Bacchan, Dharmendr"
-    
-
-    
- },
- 
+   },
  {
     "name": "Suyash Garud",
     "Movie": "Hawaizaada 2",
     "Type": "Bollywood",
     "Actor": "Ayushman Khurrana"
-
-    
- },
-
+    },
  {
     "name": "Suyash Garud",
     "Movie": "Batti Gul Meter Chalu",
     "Type": "Bollywood",
     "Actor": "Shahid Kapoor"
     },
-    
-
-{
+ {
     "name": "Gaurav Sonawane",
     "Movie": "Dhadkan",
     "Type": "Bollywood",
@@ -111,43 +100,32 @@
     "Movie": "Good Newz",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
-    
     },
-{
+ {
     "name": "Shubham Ingole",
     "Movie": "Phir Hera Pheri",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar, Sunil Shetty, Paresh Rawal"
-
-
-    },
+   },
  {
     "name": "Suyash Garud",
     "Movie": "Samrat Prithviraj",
     "Type": "Bollywood",
     "Actor": "Akshay Kumar"
-
-    
  },
-  
-  {
+   {
     "name": "Gaurav Sonawane",
     "Movie": "Shershaah",
     "Type": "Bollywood",
     "Actor": "Siddharth Malhotra"
-    
-
-  },
+   },
  {
     "name": "Suyash Garud",
     "Movie": "K.G.F. Chapter 2",
     "Type": "Tollywood",
     "Actor": "Yash"
-
-    
- } ,
-
-  {
+ },
+{
     "name": "A K",
     "Movie": "Purple heart",
     "Type": "Hollywood",
