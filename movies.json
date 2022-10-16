@@ -264,6 +264,12 @@
     "Movie": "life is beautiful",
     "Type" : "Italian/Drama",
     "Actor" : "Roberto Benigni"
+  },
+  {
+    "name": "Srikant V S",
+    "Movie": "Top Gun : Maverick",
+    "Type": "Hollywood",
+    "Actor" : "Tom Cruise"
   }
 
 ]
