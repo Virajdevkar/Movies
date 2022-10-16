@@ -146,7 +146,7 @@
  "name":"Aditi kantale",
   "Movie":"RRR",
   "Type":"Tollywood",
-  "Actor":"Ram Charan",
+  "Actor":"Ram Charan"
 
 
 
@@ -155,7 +155,7 @@
     "name":"aditi Katale",
     "Movie":"krish",
     "Type":"Bollywood",
-    "Actor":"Hritik Roshan",
+    "Actor":"Hritik Roshan"
 
 },
 
@@ -187,7 +187,7 @@
     "name":"gaurav d",
   "Movie":"RRRr",
   "Type":"Tbllywood",
-  "Actor":"Ram Charan",
+  "Actor":"Ram Charan"
 },
 
 
@@ -253,12 +253,17 @@
   { "name": "Azim",
     "Movie": "Pirates Of The Caribbean",
     "Type": "Hollywood",
-    "Actor" : "Johnny Depp",
+    "Actor" : "Johnny Depp"
   },
 { "name": "Ironspider",
     "Movie": "Ironman",
     "Type": "Hollywood",
-    "Actor" : "RDJ",
+    "Actor" : "RDJ"
   },
+  { "name" : "diy0",
+    "Movie": "life is beautiful",
+    "Type" : "Italian/Drama",
+    "Actor" : "Roberto Benigni"
+  }
 
 ]
